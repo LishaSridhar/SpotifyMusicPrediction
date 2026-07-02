@@ -19,7 +19,7 @@ A machine learning analysis investigating what drives music success on Spotify's
 
 ## Data Source
 
-This project uses the **Spotify Global Top 200 Streams (2017–2023)** dataset (`Spotify_Dataset_V3.csv`). The file is not committed to this repository due to its size (~150 MB) — download it separately and place it in the `data/` folder before running the notebooks.
+This project uses the **Spotify Global Top 200 Streams (2017–2023)** dataset (`Spotify_Dataset_V3.csv`). The dataset is included as a zip file in data/Spotify_Dataset_V3.zip — unzip it before running the notebooks.
 
 ## Installation & Setup
 
