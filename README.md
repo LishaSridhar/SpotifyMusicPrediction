@@ -1,5 +1,4 @@
 # Spotify Music Popularity Prediction
-
 A machine learning analysis investigating what drives music success on Spotify's Global Top 200 charts (2017-2023). This project explores temporal streaming patterns and compares the predictive power of audio features versus artist reputation in determining track popularity.
 
 📄 Full write-up: [`report/report.pdf`](report/report.pdf)
